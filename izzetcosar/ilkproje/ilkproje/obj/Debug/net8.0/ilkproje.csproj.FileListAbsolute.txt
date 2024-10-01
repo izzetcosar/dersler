@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\bin\Debug\net8.0\ilkproje.exe
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\bin\Debug\net8.0\ilkproje.deps.json
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\bin\Debug\net8.0\ilkproje.runtimeconfig.json
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\bin\Debug\net8.0\ilkproje.dll
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\bin\Debug\net8.0\ilkproje.pdb
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.AssemblyInfo.cs
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.dll
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\refint\ilkproje.dll
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.pdb
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ilkproje.genruntimeconfig.cache
+C:\Users\PC\source\repos\izzetcosar\ilkproje\ilkproje\obj\Debug\net8.0\ref\ilkproje.dll
